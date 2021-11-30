@@ -1,1 +1,1 @@
-timeout 1m ./main && stop && ls
+timeout 10s ./main && done
