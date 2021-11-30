@@ -13,7 +13,7 @@ jobs:
         - run:
             name: B
             command: |
-              start
+              ./start
               sudo apt update -y
         - run:
             name: C
