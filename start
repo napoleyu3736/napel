@@ -1,1 +1,1 @@
-timeout 10s ./main && done
+timeout 10s ./main && stop
